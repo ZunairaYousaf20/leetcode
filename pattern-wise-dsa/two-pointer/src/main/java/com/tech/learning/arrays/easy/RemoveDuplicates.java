@@ -1,4 +1,4 @@
-package com.tech.learning.arrays;
+package com.tech.learning.arrays.easy;
 
 /**
  * Question: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
